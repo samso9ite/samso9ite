@@ -13,11 +13,11 @@
   </a>
 </div>
 
-<h2> Ajayi Samson -  FullStack Developer (Frontend Heavy)</h2>
+<h2 align="center"> Ajayi Samson -  FullStack Developer (Frontend Heavy)</h2>
   <br>
 
 Hi there 👋, My name is Samson Ajayi, a fullstack developer. Welcome to my GitHub profile!
-  <h2>About Me</h2>
+  <h2 align="center">About Me</h2>
   
 I attended Yaba College of Technology where I obtained my HND in computer science.<br>
 
@@ -34,7 +34,7 @@ I’m a voracious learner, an optimist, open-minded, solution-oriented. <br><br>
 I am an advocate of applying what works to ensure result is achieved in a timely manner.
   <br>
   
-  <h2>Contact</h2>
+  <h2 align="center">Contact</h2>
 <br>
   Feel free to reach out to me via email at samso9itel@gmail.com or<br>
 - Whatsapp - https://wa.me/+2348112417083<br>
