@@ -26,14 +26,17 @@ I am a full stack engineer of over 7years experience in Software Engineering, my
   <br>
 I have worked with several tech companies and built many applications from start to finish without being supervised one of which is the portal for Dental Therapist Registration Board of Nigeria.
 <br><br>
-My marital status is single.
-<br><br>
 I love playing the keyboard, listening to good music and coding.
 <br><br>
 I’m a voracious learner, an optimist, open-minded, solution-oriented. <br><br>
 I am an advocate of applying what works to ensure result is achieved in a timely manner.
   <br>
  </div>
+<div align="center">### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samso9ite&theme=dark&background=000000&fire=EB5454&ring=EB5454&sideLabels=EB5454)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samso9ite&layout=compact&theme=vision-friendly-dark)](https://github.com/samso9ite/github-readme-stats)
+</div>
   <h2 align="center">Contact</h2>
 <br>
 <div align="center">
