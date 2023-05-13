@@ -18,7 +18,7 @@
 
 <div align="center">Hi there 👋, My name is Samson Ajayi, a fullstack developer. Welcome to my GitHub profile! </div>
   <h2 align="center">About Me</h2>
-  
+<div align="center">  
 I attended Yaba College of Technology where I obtained my HND in computer science.<br>
 
 I am a full stack engineer of over 7years experience in Software Engineering, my stack are <b> Python, Django , Javascript, VueJs, NUXT,  React, Typescript </b>I  also has a vast knowledge of the content management system using <b>Wordpress </b> and I have a basic knowledge of the <b>flutter framework </b> for mobile applications. 
@@ -33,13 +33,15 @@ I love playing the keyboard, listening to good music and coding.
 I’m a voracious learner, an optimist, open-minded, solution-oriented. <br><br>
 I am an advocate of applying what works to ensure result is achieved in a timely manner.
   <br>
-  
+ </div>
   <h2 align="center">Contact</h2>
 <br>
+<div align="center">
   Feel free to reach out to me via email at samso9itel@gmail.com or<br>
 - Whatsapp - https://wa.me/+2348112417083<br>
 - Instagram - https://instagram.com/samso9ite1234<br><br>
 I'm open to gigs, collaboration, feedback, or just saying hello!😊
+  </div>
 <!--
 **samso9ite/samso9ite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
