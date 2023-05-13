@@ -25,9 +25,9 @@ I am an advocate of applying what works to ensure result is achieved in a timely
   
   <h2>Contact</h2>
 <br>
-  Feel free to reach out to me via email at samso9itel@gmail.com or
-- Whatsapp - https://wa.me/+2348112417083
-- Instagram - https://instagram.com/samso9ite1234
+  Feel free to reach out to me via email at samso9itel@gmail.com or<br>
+- Whatsapp - https://wa.me/+2348112417083<br>
+- Instagram - https://instagram.com/samso9ite1234<br><br>
 I'm open to gigs, collaboration, feedback, or just saying hello!😊
 <!--
 **samso9ite/samso9ite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
