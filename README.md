@@ -34,7 +34,7 @@ I am an advocate of applying what works to ensure result is achieved in a timely
  </div>
 <div align="center">### :fire: My Stats :
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samso9ite&theme=dark&background=000000)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samso9ite&theme=dark)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samso9ite&layout=compact&theme=vision-friendly-dark)](https://github.com/samso9ite/github-readme-stats)
 </div>
   <h2 align="center">Contact</h2>
