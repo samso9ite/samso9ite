@@ -32,9 +32,9 @@ I’m a voracious learner, an optimist, open-minded, solution-oriented. <br><br>
 I am an advocate of applying what works to ensure result is achieved in a timely manner.
   <br>
  </div>
-<div align="center">### :fire: My Stats :
-
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samso9ite&theme=dark)](https://git.io/streak-stats)
+<h2 align="center">### :fire: My Stats :</h2>
+<div align="center">
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samso9ite&theme=dark)](https://github.com/samso9ite/)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samso9ite&layout=compact&theme=vision-friendly-dark)](https://github.com/samso9ite/github-readme-stats)
 </div>
   <h2 align="center">Contact</h2>
