@@ -1,8 +1,8 @@
 
 <h2> Ajayi Samson -  FullStack Developer (Frontend Heavy)<h2>
   <br>
-Hi there 👋,My name is Samson Ajayi, a fullstack developer. Welcome to my GitHub profile!
-  
+
+ Hi there, My name is Samson Ajayi A fullstack developver. Welcom to my Github Account
   <h2>About Me</h2>
   
 I attended Yaba College of Technology where I obtained my HND in computer science.<br>
